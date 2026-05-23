@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Broken Fence Romance
+
+This log tracks the cryptographic history and versioning for the song **Broken Fence Romance** (broken-fence-romance).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T15:01:03.818375 | `v1` | `0c0a1ccc7f0c6feb17fc58b247356546f0bf6dcb1a53629bc289dc4b23314a52` | `ebb97efdeeaa4a82cd3af429860a587757252d96cfea75e449a05c034df81369` | `2026-05-23_broken-fence-romance-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

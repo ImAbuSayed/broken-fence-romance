@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/broken-fence-romance/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Broken Fence Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/broken-fence-romance/) |
+| **Get License** | [Get License For Broken Fence Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/broken-fence-romance/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0c0a1ccc7f0c6feb17fc58b247356546f0bf6dcb1a53629bc289dc4b23314a52` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
