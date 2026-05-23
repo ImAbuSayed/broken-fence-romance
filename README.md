@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/broken-fence-romance/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Broken Fence Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/broken-fence-romance/) |
+| **Get License** | [Obtain a Music License for Broken Fence Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/broken-fence-romance/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the heat in the shadows of the room
+> When you look at me like a late-night moon
+> We've been talking close with our glasses half dry
+> Now there's something burning in the deep of your eye
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
